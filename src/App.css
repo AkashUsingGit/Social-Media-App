@@ -1,0 +1,25 @@
+.div-container{
+    display : flex;
+}
+
+.div-container2{
+    width : 100%;
+}
+
+.sidebar{
+    min-height: 650px;
+}
+
+.tag{
+    margin :2px;
+}
+
+.post{
+    margin : 10px;
+}
+
+.CreatePost{
+    width : 60%;
+    margin-left:20%;
+    margin-top:30px;
+}
